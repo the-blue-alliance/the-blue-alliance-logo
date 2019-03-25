@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Custom Preset</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Custom-Preset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tba_lamp" transform="translate(39.467890, 32.000000)">
+            <path d="M24.6238532,8.0733945 L24.6238532,33.9082569 C24.6238532,39.4817727 20.1056259,44 14.5321101,44 C8.95859427,44 4.44036697,39.4817727 4.44036697,33.9082569 L4.44036697,8.0733945" id="Path" stroke="#FFFFFF" stroke-width="2.42201835"></path>
+            <path d="M14.5321101,8.0733945 L14.5321101,44" id="Path" stroke="#FFFFFF" stroke-width="2.42201835"></path>
+            <path d="M4.44036697,32.6972477 L24.6238532,32.6972477" id="Path" stroke="#FFFFFF" stroke-width="2.42201835"></path>
+            <path d="M4.44036697,21.3944954 L24.6238532,21.3944954" id="Path" stroke="#FFFFFF" stroke-width="2.42201835"></path>
+            <g id="Lamp_Rectangle" fill="#FFFFFF" fill-rule="nonzero">
+                <rect id="Rectangle" x="0" y="0" width="29.0642202" height="11.3027523" rx="1.6146789"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
